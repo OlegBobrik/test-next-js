@@ -23,7 +23,8 @@
     "build": "next build",
     "export": "next export",
     "start": "next start",
-    "serve": "serve out"
+    "serve": "serve out",
+    "postbuild": "next-on-netlify"
   },
   "license": "MIT"
 }
